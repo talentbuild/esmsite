@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/esmsite/static/css/main.f855e6bc.css",
+    "main.js": "/esmsite/static/js/main.5583d5b4.js",
+    "static/js/156.df6a3b8f.chunk.js": "/esmsite/static/js/156.df6a3b8f.chunk.js",
+    "index.html": "/esmsite/index.html",
+    "main.f855e6bc.css.map": "/esmsite/static/css/main.f855e6bc.css.map",
+    "main.5583d5b4.js.map": "/esmsite/static/js/main.5583d5b4.js.map",
+    "156.df6a3b8f.chunk.js.map": "/esmsite/static/js/156.df6a3b8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5583d5b4.js"
+  ]
+}
